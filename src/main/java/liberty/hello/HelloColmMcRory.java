@@ -9,7 +9,7 @@ public class HelloColmMcRory {
 	
 	@GetMapping("/colm-mcrory")
 	public String hello() {
-		return "Hello, Colm McRory";
+		return "Hola, Colm McRory";
 	}
 
 }
