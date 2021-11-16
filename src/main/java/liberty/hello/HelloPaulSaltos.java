@@ -8,7 +8,7 @@ public class HelloPaulSaltos {
 	
 	@GetMapping("/paul-saltos")
 	public String hello() {
-		return "Hello, Paúl Saltos";
+		return "Hola, Paúl Saltos";
 	}
 
 }
