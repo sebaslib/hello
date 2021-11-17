@@ -8,6 +8,6 @@ public class HelloValentin {
 
 	@GetMapping("/valentin")
 	public String hello() {
-		return "Hola Valentin";
+		return "Hello... Valentin Sueiro Lopez... have a good day";
 	}
 }
